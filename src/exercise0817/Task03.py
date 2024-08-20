@@ -1,5 +1,6 @@
 # - Explain the difference between the = operator and the == operator in Python.
 #= - Assignment operator it assigns the left side value to right side variable
+#== - comparision operator, it compares the left and right hand side value.
 # - What does the ** operator do in Python, and how is it used?
 # ** is a power operator, we used this to calculate the power
 #Ex:-print(pow(2,3))
