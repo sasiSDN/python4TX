@@ -4,6 +4,6 @@ def print_arguments(*args):
     for j in args:
         print(j)
 
-print_arguments("sasi","dhara","naidu")
+print_arguments("sasi","dhara","naidu",True,20.24,223)
 # print_arguments("raina","dhoni")
 # print_arguments("Delhi")
